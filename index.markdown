@@ -1,8 +1,3 @@
----
-
-layout: home
----
-
 
 
 <mark>This website has been shifted to https://hinausman.com/</mark>
